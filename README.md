@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![My Profile Picture](IMG_3627.JPG)
 
 🎓 Junior CS Major | Cybersecurity Concentration | AI Minor  
 🔐 Passionate about offensive/defensive security, automation, and ethical hacking  
